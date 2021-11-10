@@ -20,7 +20,6 @@ The following **extensions** are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/WAF3c21" data-context="false" ><a href="//imgur.com/a/WAF3c21"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <img src='https://imgur.com/a/3tSzfsH' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
